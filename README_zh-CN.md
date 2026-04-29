@@ -19,13 +19,11 @@
 
 # 📖 简介
 
-DeepLiterature 是一个开源的科学 Deep Research 框架，由中国科学院自动化研究所、中国科学院文献情报中心、中国科学院计算机网络信息中心、中科闻歌、紫东太初联合推出，旨在为智能代理系统提供多种工具支持。当前 DeepLiterature 支持四类工具：搜索引擎、代码执行器、链接解析、信息拓展。
+DeepLiterature 是一个 Deep Research 框架，旨在为智能代理系统提供多种工具支持。当前 DeepLiterature 支持四类工具：搜索引擎、代码执行器、链接解析、信息拓展。
 
 
 <span id='news'/>
 
-## 🔥 更新
-  - **[2025/03]** DeepLiterature 正式发布，支持搜索引擎、代码执行器、链接解析、信息拓展等工具
 
 
 <span id='table-of-contents'/>
