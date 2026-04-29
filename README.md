@@ -4,10 +4,8 @@
   <img src="./assets/deep_literature_logo.svg" alt="Logo" width="600">
   </br></br>
 
-  [![GitHub Repo stars](https://img.shields.io/github/stars/ScienceOne-AI/DeepLiterature?style=social)](https://github.com/ScienceOne-AI/DeepLiterature)
+  [![GitHub Repo stars](https://img.shields.io/github/stars/KKballoon/DeepLiterature?style=social)](https://github.com/KKballoon/DeepLiterature)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![issue resolution](https://img.shields.io/github/issues-closed-raw/ScienceOne-AI/DeepLiterature)](https://github.com/ScienceOne-AI/DeepLiterature/issues)
-[![open issues](https://img.shields.io/github/issues-raw/ScienceOne-AI/DeepLiterature)](https://github.com/ScienceOne-AI/DeepLiterature/issues)
   <br>
 
 
@@ -22,14 +20,15 @@
 
 # 📖 Introduction
 
-DeepLiterature is an open-source science deep research framework, jointly launched by the Institute of Automation, Chinese Academy of Sciences; the National Science Library, Chinese Academy of Sciences; the Computer Network Information Center, Chinese Academy of Sciences; Beijing Wenge Technology Co., Ltd.; and Zidong Taichu (Beijing) Technology Co., Ltd. It aims to provide various tool support for intelligent agent systems. Currently, DeepLiterature supports four types of tools: Search Engine, Code Runner, Link Parser, and Information expander.
+DeepLiterature is a personal multi-agent research assistant project for exploring deep research workflows, tool-augmented reasoning, and modular agent collaboration. It integrates search, code execution, link parsing, and information expansion tools to support question decomposition, evidence collection, and answer generation.
 
 
 
 <span id='news'/>
 
 ## 🔥 News
-  - **[2025/03]** DeepLiterature officially released, supporting tools such as Search Engine, Code Runner, Link Parser, and Information expander.
+  - **[2026/04]** Reorganized as a personal engineering project and published to GitHub.
+  - **[2026/04]** Added project-level Git configuration and repository ignore rules for cleaner version control.
 
 
 <span id='table-of-contents'/>
@@ -315,7 +314,7 @@ DeepLiterature adopts a modular design, with the main directory structure as fol
 - After cloning the repository, install dependencies:
 
   ```bash
-  git clone https://github.com/ScienceOne-AI/DeepLiterature.git
+  git clone https://github.com/KKballoon/DeepLiterature.git
   cd DeepLiterature
   pip install -r requirements.txt
   ```
@@ -382,4 +381,4 @@ The front-end display part of this framework is implemented through the [Streaml
 
 ## 📄 License 
 
-DeepLiterature is open-sourced under the [Apache 2.0 License](./LICENSE), welcome to use and contribute code under the license agreement.
+DeepLiterature is distributed under the [Apache 2.0 License](./LICENSE). Please follow the license terms when using, modifying, or redistributing this project.

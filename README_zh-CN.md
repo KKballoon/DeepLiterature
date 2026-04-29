@@ -4,10 +4,8 @@
   <img src="./assets/deep_literature_logo.svg" alt="Logo" width="600">
   </br></br>
 
-  [![GitHub Repo stars](https://img.shields.io/github/stars/ScienceOne-AI/DeepLiterature?style=social)](https://github.com/ScienceOne-AI/DeepLiterature/stargazers)
+  [![GitHub Repo stars](https://img.shields.io/github/stars/KKballoon/DeepLiterature?style=social)](https://github.com/KKballoon/DeepLiterature)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![issue resolution](https://img.shields.io/github/issues-closed-raw/ScienceOne-AI/DeepLiterature)](https://github.com/ScienceOne-AI/DeepLiterature/issues)
-[![open issues](https://img.shields.io/github/issues-raw/ScienceOne-AI/DeepLiterature)](https://github.com/ScienceOne-AI/DeepLiterature/issues)
   <br>
 
   [English](README.md) | 简体中文
@@ -19,11 +17,14 @@
 
 # 📖 简介
 
-DeepLiterature 是一个 Deep Research 框架，旨在为智能代理系统提供多种工具支持。当前 DeepLiterature 支持四类工具：搜索引擎、代码执行器、链接解析、信息拓展。
+DeepLiterature 是一个个人多智能体研究助手项目，用于探索 Deep Research 工作流、工具增强推理和模块化智能体协同。项目集成搜索引擎、代码执行器、链接解析和信息拓展等能力，支持问题拆解、证据收集和答案生成。
 
 
 <span id='news'/>
 
+## 🔥 更新
+  - **[2026/04]** 整理为个人工程项目，并发布到 GitHub。
+  - **[2026/04]** 增加项目级 Git 配置和忽略规则，便于版本管理。
 
 
 <span id='table-of-contents'/>
@@ -308,7 +309,7 @@ DeepLiterature 采用模块化设计，主要目录结构如下：
 
 - 克隆仓库后，安装依赖：
   ```bash
-  git clone https://github.com/ScienceOne-AI/DeepLiterature.git
+  git clone https://github.com/KKballoon/DeepLiterature.git
   cd DeepLiterature
   pip install -r requirements.txt
   ```
@@ -375,4 +376,4 @@ DeepLiterature 采用模块化设计，主要目录结构如下：
 
 ## 📄 证书 
 
-DeepLiterature 采用 [Apache 2.0 License](./LICENSE) 进行开源发布，欢迎大家在遵循许可协议的前提下使用和贡献代码。
+DeepLiterature 采用 [Apache 2.0 License](./LICENSE) 进行发布。使用、修改或再分发本项目时，请遵循许可证条款。
